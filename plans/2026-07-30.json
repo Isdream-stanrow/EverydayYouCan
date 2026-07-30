@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-30",
+  "items": [
+    {
+      "text": "1",
+      "done": false
+    },
+    {
+      "text": "2",
+      "done": false
+    },
+    {
+      "text": "3",
+      "done": false
+    },
+    {
+      "text": "4",
+      "done": false
+    },
+    {
+      "text": "5",
+      "done": false
+    }
+  ]
+}
